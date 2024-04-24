@@ -1,0 +1,2 @@
+# tgo
+small company
